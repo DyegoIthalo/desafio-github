@@ -1,2 +1,2 @@
-# Desafio github 
-Primeiro desafio de projeto sobre git/github
+# Desafio github :computer:
+Primeiro desafio de projeto do projeto sobre git/github 
