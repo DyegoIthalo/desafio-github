@@ -1,0 +1,12 @@
+Link para dowload do Git: https://git-scm.com/downloads
+O git bash é um terminal extendido para otimizar o uso do Git.
+
+Cd = acessar
+Dir = ver oq tem dentro da pasta
+Mkdir = criar pasta
+Cls ou ctrl L= limpar
+Tab = autocompletar
+CD .. =Sair de uma pasta 
+ECHO = Criar um arquivo  
+Del = só para deletar arquivos
+RMDIR = para remover a pasta e tudo dentro dela
